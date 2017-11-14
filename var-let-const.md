@@ -4,7 +4,6 @@
 - `function-scoped`와 `block-scoped`가 무슨말이냐?
 
 ## var(function-scoped)
-[jsfiddle 참고주소](https://jsfiddle.net/LeoHeo/u9j4u5vh/1/)
 
 ```javascript
 
